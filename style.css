@@ -1,0 +1,15 @@
+header {
+    background: black;
+    color: white;
+  }
+  
+  h1 {
+    font-family: helvetica;
+    font-size: 36px;
+  }
+  
+  section {
+    border: solid 1px #000;
+    padding: 10px;
+    margin-top: 20px;
+  }

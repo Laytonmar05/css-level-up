@@ -1,0 +1,50 @@
+
+#container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background: orange;
+    top: 50px;
+    left: 200px;
+  }
+  header{
+Background:black;
+margin-bottom: 50px;
+margin-top: 50px;
+text-align: center;
+  }
+  h1{
+      color: white;
+      text-align: center;
+  }
+a{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+  .child {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+  }
+  
+  #top-right {
+    background-color: green ;
+    top: 15px;
+    right: 25px;
+  }
+  #top-left {
+    background-color: red;
+    top: 50px;
+    left: 50px;
+  }
+#bottom-left{
+    background-color: purple;
+    bottom:50px;
+    left:50px;
+}
+#bottom-right{
+    background-color: black;
+    bottom:15px;
+    right: 25px;
+}
